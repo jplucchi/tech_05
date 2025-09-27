@@ -1,6 +1,5 @@
 import json
 import random
-import openai
 from datetime import datetime
 import re
 
