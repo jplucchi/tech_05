@@ -1,0 +1,6283 @@
+[
+  {
+    "id": "VAGA_0001",
+    "titulo": "Pleno Backend Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Pleno Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Backend",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "PostgreSQL",
+      "C#",
+      "Angular",
+      "Machine Learning",
+      "Flask"
+    ],
+    "tecnologias_desejaveis": [
+      "TensorFlow",
+      "JavaScript",
+      "PyTorch",
+      "Python",
+      "Vue.js"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Trabalho em equipe"
+    ],
+    "soft_skills_desejaveis": [
+      "Iniciativa",
+      "Comunicação"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Cirino de Ribeiro",
+    "estado": "ES",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-01T13:58:50.172045",
+    "prazo_fechamento": "2025-11-05T13:58:50.172046",
+    "total_candidatos": 7,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Agilidade",
+      "Inovação",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Home office",
+      "Vale transporte",
+      "Vale refeição",
+      "Gympass",
+      "Plano de saúde",
+      "Day off aniversário",
+      "Horário flexível",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0002",
+    "titulo": "Senior DevOps Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Senior DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "DevOps",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Node.js",
+      "Scala",
+      "Kubernetes"
+    ],
+    "tecnologias_desejaveis": [
+      "Java",
+      "Numpy"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Adaptabilidade",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Pensamento crítico",
+      "Gestão de tempo",
+      "Flexibilidade"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Fogaça",
+    "estado": "TO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-07-17T13:58:50.172067",
+    "prazo_fechamento": "2025-10-04T13:58:50.172068",
+    "total_candidatos": 26,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Transparência",
+      "Crescimento",
+      "Excelência",
+      "Agilidade",
+      "Sustentabilidade",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Vale transporte",
+      "Home office",
+      "Stock options",
+      "Plano odontológico",
+      "Horário flexível",
+      "Curso de idiomas",
+      "Day off aniversário",
+      "Vale refeição",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0003",
+    "titulo": "Junior Data Science Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Junior Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Data Science",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Elasticsearch",
+      "Vue.js",
+      "Redis",
+      "Jenkins",
+      "ETL"
+    ],
+    "tecnologias_desejaveis": [
+      "Java",
+      "C#",
+      "React",
+      "Unity",
+      "Node.js",
+      "TypeScript"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Pensamento crítico",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Monteiro",
+    "estado": "PE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-15T13:58:50.172089",
+    "prazo_fechamento": "2025-10-04T13:58:50.172090",
+    "total_candidatos": 25,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Inovação",
+      "Excelência",
+      "Qualidade",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Certificações",
+      "Gympass",
+      "Day off aniversário",
+      "Horário flexível",
+      "Curso de idiomas",
+      "Stock options",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0004",
+    "titulo": "Especialista DevOps Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Especialista DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "DevOps",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Kafka",
+      "Scikit-learn",
+      "RabbitMQ"
+    ],
+    "tecnologias_desejaveis": [
+      "Node.js",
+      "Flutter",
+      "Grafana",
+      "Ansible",
+      "Apache Spark",
+      "Pandas",
+      "Rust"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Gestão de tempo",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Cunha",
+    "estado": "PA",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-15T13:58:50.172108",
+    "prazo_fechamento": "2025-10-21T13:58:50.172110",
+    "total_candidatos": 20,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Diversidade",
+      "Transparência",
+      "Colaboração",
+      "Sustentabilidade",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Previdência privada",
+      "Gympass",
+      "Vale transporte",
+      "Day off aniversário",
+      "Horário flexível",
+      "Vale refeição",
+      "Home office",
+      "Plano de saúde"
+    ]
+  },
+  {
+    "id": "VAGA_0005",
+    "titulo": "Pleno QA Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Pleno QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "QA",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "AWS",
+      "Kafka"
+    ],
+    "tecnologias_desejaveis": [
+      "Data Science",
+      "Kafka"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Teixeira",
+    "estado": "PI",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Média",
+    "data_abertura": "2025-08-10T13:58:50.172127",
+    "prazo_fechamento": "2025-11-16T13:58:50.172129",
+    "total_candidatos": 49,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Colaboração",
+      "Excelência",
+      "Agilidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Previdência privada",
+      "Certificações",
+      "Gympass",
+      "Vale refeição",
+      "Horário flexível",
+      "Day off aniversário",
+      "Stock options",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0006",
+    "titulo": "Senior Data Science Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Senior Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Data Science",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "C#",
+      "Node.js",
+      "RabbitMQ"
+    ],
+    "tecnologias_desejaveis": [
+      "TensorFlow",
+      "Data Science",
+      "Rust",
+      "Azure"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Colaboração",
+      "Adaptabilidade",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Guerra",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-28T13:58:50.172148",
+    "prazo_fechamento": "2025-10-24T13:58:50.172149",
+    "total_candidatos": 35,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Agilidade",
+      "Diversidade",
+      "Qualidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Horário flexível",
+      "Vale transporte",
+      "Previdência privada",
+      "Plano de saúde",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0007",
+    "titulo": "Especialista Data Science Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Especialista Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Data Science",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Pandas",
+      "Data Science",
+      "Django",
+      "Kafka",
+      "Go"
+    ],
+    "tecnologias_desejaveis": [
+      "Prometheus",
+      "Scikit-learn",
+      "Power BI",
+      "Microservices",
+      "React Native",
+      "ETL",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Adaptabilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Básico",
+    "cidade": "Albuquerque",
+    "estado": "PI",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-09-21T13:58:50.172167",
+    "prazo_fechamento": "2025-11-04T13:58:50.172168",
+    "total_candidatos": 40,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Crescimento",
+      "Qualidade",
+      "Sustentabilidade",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Home office",
+      "Horário flexível",
+      "Certificações",
+      "Vale refeição",
+      "Stock options",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0008",
+    "titulo": "Arquiteto QA Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Arquiteto QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "QA",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "ETL",
+      "JavaScript",
+      "Apache Spark",
+      "Grafana"
+    ],
+    "tecnologias_desejaveis": [
+      "ETL",
+      "MySQL",
+      "React Native",
+      "Hadoop",
+      "Ansible",
+      "Unreal Engine",
+      "PyTorch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Criatividade",
+      "Pensamento crítico",
+      "Colaboração"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Araújo dos Dourados",
+    "estado": "SP",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Média",
+    "data_abertura": "2025-07-17T13:58:50.172187",
+    "prazo_fechamento": "2025-10-25T13:58:50.172188",
+    "total_candidatos": 11,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Agilidade",
+      "Diversidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Curso de idiomas",
+      "Stock options",
+      "Plano de saúde",
+      "Vale refeição",
+      "Previdência privada",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0009",
+    "titulo": "Pleno Data Science Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Pleno Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Data Science",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Hadoop",
+      "JavaScript",
+      "Elasticsearch"
+    ],
+    "tecnologias_desejaveis": [
+      "MongoDB",
+      "Prometheus",
+      "Microservices"
+    ],
+    "soft_skills_obrigatorias": [
+      "Colaboração",
+      "Pensamento crítico"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "da Cruz do Sul",
+    "estado": "MT",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-30T13:58:50.172206",
+    "prazo_fechamento": "2025-11-26T13:58:50.172207",
+    "total_candidatos": 12,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Transparência",
+      "Agilidade",
+      "Sustentabilidade",
+      "Crescimento",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Day off aniversário",
+      "Horário flexível",
+      "Vale refeição",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0010",
+    "titulo": "Pleno DevOps Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Pleno DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "DevOps",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Git",
+      "Pandas",
+      "Data Science",
+      "Vue.js"
+    ],
+    "tecnologias_desejaveis": [
+      "Jenkins",
+      ".NET",
+      "React Native",
+      "R",
+      "Java"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Pensamento crítico",
+      "Liderança",
+      "Criatividade"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Peixoto Paulista",
+    "estado": "MG",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-02T13:58:50.172226",
+    "prazo_fechamento": "2025-11-17T13:58:50.172227",
+    "total_candidatos": 23,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Diversidade",
+      "Colaboração",
+      "Agilidade",
+      "Sustentabilidade",
+      "Excelência",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Plano de saúde",
+      "Gympass",
+      "Previdência privada",
+      "Vale refeição",
+      "Certificações",
+      "Horário flexível",
+      "Day off aniversário",
+      "Plano odontológico",
+      "Vale transporte"
+    ]
+  },
+  {
+    "id": "VAGA_0011",
+    "titulo": "Lead Fullstack Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Lead Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Fullstack",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Angular",
+      "RabbitMQ",
+      "PostgreSQL",
+      "Grafana"
+    ],
+    "tecnologias_desejaveis": [
+      "Swift",
+      "Vue.js",
+      "Unity",
+      "Azure",
+      "Git",
+      "Hadoop"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Colaboração",
+      "Gestão de tempo",
+      "Flexibilidade"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Fogaça de Novais",
+    "estado": "TO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-16T13:58:50.172247",
+    "prazo_fechamento": "2025-10-23T13:58:50.172248",
+    "total_candidatos": 49,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Qualidade",
+      "Sustentabilidade",
+      "Diversidade",
+      "Crescimento",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Certificações",
+      "Plano de saúde",
+      "Stock options"
+    ]
+  },
+  {
+    "id": "VAGA_0012",
+    "titulo": "Junior UX/UI Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Junior UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "UX/UI",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "R",
+      "Ansible",
+      "JavaScript"
+    ],
+    "tecnologias_desejaveis": [
+      "Node.js",
+      "React",
+      "Microservices",
+      "Angular"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Gestão de tempo",
+      "Adaptabilidade",
+      "Orientação a resultados"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Costa dos Dourados",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-12T13:58:50.172267",
+    "prazo_fechamento": "2025-10-07T13:58:50.172268",
+    "total_candidatos": 29,
+    "candidatos_aprovados": 7,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Inovação",
+      "Qualidade",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Curso de idiomas",
+      "Certificações",
+      "Previdência privada",
+      "Plano de saúde"
+    ]
+  },
+  {
+    "id": "VAGA_0013",
+    "titulo": "Junior Data Science Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Junior Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Data Science",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Tableau",
+      "Kotlin",
+      "PostgreSQL",
+      "Unity",
+      "Rust"
+    ],
+    "tecnologias_desejaveis": [
+      "Pandas",
+      "Hadoop",
+      "Elasticsearch",
+      "React Native",
+      "Machine Learning",
+      "Grafana",
+      "TypeScript",
+      "Git"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Liderança",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Gestão de tempo",
+      "Orientação a resultados"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Fluente",
+    "cidade": "Lima",
+    "estado": "RN",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-17T13:58:50.172285",
+    "prazo_fechamento": "2025-10-18T13:58:50.172287",
+    "total_candidatos": 17,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Agilidade",
+      "Diversidade",
+      "Excelência",
+      "Sustentabilidade",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Stock options",
+      "Previdência privada",
+      "Horário flexível",
+      "Home office",
+      "Day off aniversário",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0014",
+    "titulo": "Junior Backend Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Apache Spark",
+      "GitLab CI",
+      "Azure",
+      "TypeScript"
+    ],
+    "tecnologias_desejaveis": [
+      "R",
+      "Tableau"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Orientação a resultados",
+      "Trabalho em equipe"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Criatividade"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Sousa de Goiás",
+    "estado": "MG",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-06T13:58:50.172307",
+    "prazo_fechamento": "2025-10-12T13:58:50.172308",
+    "total_candidatos": 25,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Inovação",
+      "Colaboração",
+      "Excelência",
+      "Crescimento",
+      "Transparência",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Home office",
+      "Curso de idiomas",
+      "Gympass",
+      "Stock options"
+    ]
+  },
+  {
+    "id": "VAGA_0015",
+    "titulo": "Lead QA Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Lead QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "QA",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "C#",
+      "PyTorch"
+    ],
+    "tecnologias_desejaveis": [
+      "Vue.js",
+      "Microservices"
+    ],
+    "soft_skills_obrigatorias": [
+      "Colaboração",
+      "Gestão de tempo",
+      "Pensamento crítico",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Cavalcante",
+    "estado": "GO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-31T13:58:50.172324",
+    "prazo_fechamento": "2025-10-12T13:58:50.172326",
+    "total_candidatos": 50,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Diversidade",
+      "Colaboração",
+      "Crescimento",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Vale refeição",
+      "Plano odontológico",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0016",
+    "titulo": "Senior DevOps Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Senior DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "DevOps",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Azure",
+      "Elasticsearch",
+      "GitLab CI",
+      "R"
+    ],
+    "tecnologias_desejaveis": [
+      "Go",
+      "Ansible",
+      "C#",
+      "PyTorch",
+      "TypeScript",
+      "Kafka"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Flexibilidade",
+      "Liderança",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Liderança",
+      "Criatividade"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Lopes do Norte",
+    "estado": "MG",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-23T13:58:50.172344",
+    "prazo_fechamento": "2025-10-07T13:58:50.172345",
+    "total_candidatos": 7,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Qualidade",
+      "Sustentabilidade",
+      "Transparência",
+      "Crescimento",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Previdência privada",
+      "Plano de saúde",
+      "Plano odontológico",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Day off aniversário"
+    ]
+  },
+  {
+    "id": "VAGA_0017",
+    "titulo": "Pleno Fullstack Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Pleno Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Fullstack",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      ".NET",
+      "PyTorch",
+      "Hadoop",
+      "C#"
+    ],
+    "tecnologias_desejaveis": [
+      "Go",
+      "Machine Learning",
+      "Tableau",
+      "Hadoop",
+      "Kotlin",
+      "Angular",
+      "RabbitMQ"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Resolução de problemas",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade",
+      "Orientação a resultados",
+      "Liderança"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Brito do Oeste",
+    "estado": "MG",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-17T13:58:50.172364",
+    "prazo_fechamento": "2025-11-03T13:58:50.172365",
+    "total_candidatos": 27,
+    "candidatos_aprovados": 0,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Diversidade",
+      "Agilidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Home office",
+      "Plano odontológico",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0018",
+    "titulo": "Especialista DevOps Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Especialista DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "DevOps",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "PostgreSQL",
+      "Hadoop",
+      "Azure"
+    ],
+    "tecnologias_desejaveis": [
+      "Swift",
+      "Azure",
+      "Redis",
+      "Python"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Ribeiro da Mata",
+    "estado": "MS",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-03T13:58:50.172382",
+    "prazo_fechamento": "2025-10-26T13:58:50.172384",
+    "total_candidatos": 16,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Qualidade",
+      "Transparência",
+      "Agilidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Previdência privada",
+      "Home office",
+      "Vale transporte",
+      "Stock options",
+      "Gympass",
+      "Certificações",
+      "Day off aniversário",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0019",
+    "titulo": "Arquiteto Backend Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Arquiteto Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Backend",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "GCP",
+      "SQL",
+      "Apache Spark",
+      "Node.js"
+    ],
+    "tecnologias_desejaveis": [
+      "PyTorch",
+      "Kafka",
+      "Data Science"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Criatividade",
+      "Colaboração",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Iniciativa",
+      "Colaboração",
+      "Flexibilidade",
+      "Liderança"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Nogueira da Mata",
+    "estado": "RJ",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-14T13:58:50.172403",
+    "prazo_fechamento": "2025-11-17T13:58:50.172405",
+    "total_candidatos": 13,
+    "candidatos_aprovados": 7,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Crescimento",
+      "Transparência",
+      "Excelência",
+      "Agilidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Certificações",
+      "Curso de idiomas",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0020",
+    "titulo": "Arquiteto Data Science Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Arquiteto Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Data Science",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Spring Boot",
+      "AWS",
+      "React Native",
+      "Pandas"
+    ],
+    "tecnologias_desejaveis": [
+      "Azure",
+      "Scikit-learn",
+      "RabbitMQ",
+      "Flask",
+      "TensorFlow",
+      "GCP",
+      "Unity"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Orientação a resultados",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Gestão de tempo",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Correia da Praia",
+    "estado": "DF",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-11T13:58:50.172423",
+    "prazo_fechamento": "2025-10-06T13:58:50.172425",
+    "total_candidatos": 12,
+    "candidatos_aprovados": 0,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Transparência",
+      "Inovação",
+      "Crescimento",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Horário flexível",
+      "Day off aniversário",
+      "Stock options",
+      "Previdência privada",
+      "Vale refeição",
+      "Certificações",
+      "Home office",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0021",
+    "titulo": "Arquiteto QA Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Arquiteto QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "QA",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Pandas",
+      "Angular"
+    ],
+    "tecnologias_desejaveis": [
+      "MySQL",
+      "Kubernetes",
+      "Terraform",
+      "Ansible",
+      "Unity",
+      "Angular",
+      "Kotlin",
+      "TypeScript"
+    ],
+    "soft_skills_obrigatorias": [
+      "Resolução de problemas",
+      "Colaboração",
+      "Criatividade",
+      "Adaptabilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Pastor do Amparo",
+    "estado": "RS",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-18T13:58:50.172443",
+    "prazo_fechamento": "2025-11-14T13:58:50.172445",
+    "total_candidatos": 13,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Diversidade",
+      "Sustentabilidade",
+      "Excelência",
+      "Crescimento",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Plano odontológico",
+      "Previdência privada",
+      "Day off aniversário"
+    ]
+  },
+  {
+    "id": "VAGA_0022",
+    "titulo": "Especialista Fullstack Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Especialista Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Fullstack",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Flutter",
+      "PostgreSQL",
+      "Jenkins",
+      "Rust"
+    ],
+    "tecnologias_desejaveis": [
+      "Ansible",
+      "RabbitMQ",
+      "React Native",
+      "React",
+      "Jenkins",
+      "Java"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Gestão de tempo",
+      "Flexibilidade",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Comunicação"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Fluente",
+    "cidade": "Barbosa de Albuquerque",
+    "estado": "DF",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-29T13:58:50.172463",
+    "prazo_fechamento": "2025-10-22T13:58:50.172465",
+    "total_candidatos": 5,
+    "candidatos_aprovados": 7,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Diversidade",
+      "Qualidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Vale refeição",
+      "Curso de idiomas",
+      "Stock options",
+      "Home office",
+      "Horário flexível",
+      "Gympass",
+      "Vale transporte"
+    ]
+  },
+  {
+    "id": "VAGA_0023",
+    "titulo": "Especialista QA Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Especialista QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "QA",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Pandas",
+      "Django",
+      "Ansible",
+      "PyTorch"
+    ],
+    "tecnologias_desejaveis": [
+      "Numpy",
+      "Kotlin",
+      "Hadoop",
+      "Prometheus",
+      "Flask",
+      "Ansible",
+      "Apache Spark"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Colaboração",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Orientação a resultados",
+      "Flexibilidade",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "da Cruz da Mata",
+    "estado": "AM",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-10T13:58:50.172483",
+    "prazo_fechamento": "2025-11-24T13:58:50.172485",
+    "total_candidatos": 42,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Crescimento",
+      "Colaboração",
+      "Qualidade",
+      "Agilidade",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Previdência privada",
+      "Certificações",
+      "Plano odontológico",
+      "Plano de saúde"
+    ]
+  },
+  {
+    "id": "VAGA_0024",
+    "titulo": "Junior Backend Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "R",
+      "C#",
+      "GitLab CI",
+      "Kafka",
+      "Swift"
+    ],
+    "tecnologias_desejaveis": [
+      "TensorFlow",
+      "Numpy",
+      "Pandas",
+      "Docker",
+      "Ansible",
+      "Python",
+      "Redis"
+    ],
+    "soft_skills_obrigatorias": [
+      "Colaboração",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "da Mata",
+    "estado": "PR",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-30T13:58:50.172501",
+    "prazo_fechamento": "2025-10-22T13:58:50.172503",
+    "total_candidatos": 50,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Qualidade",
+      "Diversidade",
+      "Excelência",
+      "Colaboração",
+      "Inovação",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Previdência privada",
+      "Curso de idiomas",
+      "Plano de saúde",
+      "Gympass",
+      "Vale refeição",
+      "Day off aniversário",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0025",
+    "titulo": "Especialista Fullstack Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Especialista Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Fullstack",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Docker",
+      "Flask",
+      "Django",
+      "Apache Spark"
+    ],
+    "tecnologias_desejaveis": [
+      "Jenkins",
+      "Data Science",
+      "Scikit-learn",
+      "React",
+      "RabbitMQ"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Cavalcante de Minas",
+    "estado": "CE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-17T13:58:50.172521",
+    "prazo_fechamento": "2025-10-31T13:58:50.172522",
+    "total_candidatos": 37,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Sustentabilidade",
+      "Agilidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Vale refeição",
+      "Stock options",
+      "Vale transporte",
+      "Horário flexível",
+      "Curso de idiomas",
+      "Home office",
+      "Plano de saúde",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0026",
+    "titulo": "Senior Frontend Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Senior Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Frontend",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "AWS",
+      "Flutter",
+      "Spring Boot"
+    ],
+    "tecnologias_desejaveis": [
+      "Swift",
+      "Kotlin",
+      "Microservices",
+      "Docker"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Colaboração",
+      "Iniciativa",
+      "Adaptabilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Orientação a resultados",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Novaes de Costa",
+    "estado": "AM",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-27T13:58:50.172551",
+    "prazo_fechamento": "2025-10-09T13:58:50.172553",
+    "total_candidatos": 13,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Excelência",
+      "Sustentabilidade",
+      "Inovação",
+      "Agilidade",
+      "Diversidade",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Home office",
+      "Curso de idiomas",
+      "Vale refeição",
+      "Vale transporte",
+      "Stock options",
+      "Gympass",
+      "Plano de saúde",
+      "Certificações",
+      "Day off aniversário",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0027",
+    "titulo": "Junior Backend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Elasticsearch",
+      "Angular",
+      "Rust"
+    ],
+    "tecnologias_desejaveis": [
+      "Rust",
+      "Terraform"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Comunicação"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Viana",
+    "estado": "PA",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-26T13:58:50.172570",
+    "prazo_fechamento": "2025-11-03T13:58:50.172571",
+    "total_candidatos": 21,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Excelência",
+      "Sustentabilidade",
+      "Crescimento",
+      "Transparência",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Plano de saúde",
+      "Certificações",
+      "Curso de idiomas",
+      "Day off aniversário",
+      "Plano odontológico",
+      "Gympass",
+      "Home office",
+      "Vale transporte",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0028",
+    "titulo": "Senior Fullstack Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Senior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Microservices",
+      ".NET",
+      "Node.js",
+      "Grafana"
+    ],
+    "tecnologias_desejaveis": [
+      "Go",
+      "Angular",
+      "Hadoop",
+      "Unity",
+      "Kotlin",
+      "Data Science",
+      "Django",
+      "Microservices"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Montenegro da Serra",
+    "estado": "RS",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-07T13:58:50.172590",
+    "prazo_fechamento": "2025-10-26T13:58:50.172591",
+    "total_candidatos": 40,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Transparência",
+      "Colaboração",
+      "Agilidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Previdência privada",
+      "Home office",
+      "Day off aniversário",
+      "Gympass",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0029",
+    "titulo": "Senior Fullstack Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Senior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Prometheus",
+      "Kotlin"
+    ],
+    "tecnologias_desejaveis": [
+      "PyTorch",
+      "Elasticsearch",
+      "JavaScript",
+      "Rust"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Criatividade"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "da Luz",
+    "estado": "RO",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-28T13:58:50.172607",
+    "prazo_fechamento": "2025-10-28T13:58:50.172609",
+    "total_candidatos": 45,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Excelência",
+      "Inovação",
+      "Transparência",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Previdência privada",
+      "Gympass",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0030",
+    "titulo": "Especialista Mobile Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Especialista Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Mobile",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "GitLab CI",
+      "Angular",
+      "Terraform",
+      "Prometheus"
+    ],
+    "tecnologias_desejaveis": [
+      "AWS",
+      "Numpy",
+      "Docker"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Iniciativa",
+      "Orientação a resultados",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "Moreira de Lopes",
+    "estado": "RO",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-16T13:58:50.172626",
+    "prazo_fechamento": "2025-10-10T13:58:50.172628",
+    "total_candidatos": 34,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Inovação",
+      "Transparência",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Day off aniversário",
+      "Horário flexível",
+      "Vale refeição",
+      "Plano de saúde",
+      "Vale transporte",
+      "Home office",
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Stock options"
+    ]
+  },
+  {
+    "id": "VAGA_0031",
+    "titulo": "Lead Mobile Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Lead Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Mobile",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Flutter",
+      "PostgreSQL",
+      "R",
+      "Angular"
+    ],
+    "tecnologias_desejaveis": [
+      "Docker",
+      "Python",
+      "Angular",
+      "Power BI",
+      "Spring Boot",
+      "Kotlin",
+      "RabbitMQ"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Adaptabilidade",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Básico",
+    "cidade": "Porto de Novaes",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-30T13:58:50.172646",
+    "prazo_fechamento": "2025-11-19T13:58:50.172647",
+    "total_candidatos": 16,
+    "candidatos_aprovados": 5,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Inovação",
+      "Agilidade",
+      "Transparência",
+      "Crescimento",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Plano odontológico",
+      "Plano de saúde",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0032",
+    "titulo": "Lead Frontend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Lead Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Frontend",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "SQL",
+      "Java",
+      "Azure",
+      "Power BI"
+    ],
+    "tecnologias_desejaveis": [
+      "React Native",
+      "React",
+      "TypeScript",
+      "Python",
+      "Prometheus",
+      "MySQL",
+      "Tableau",
+      "Hadoop"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Iniciativa"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Santos de Viana",
+    "estado": "PR",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-30T13:58:50.172667",
+    "prazo_fechamento": "2025-10-31T13:58:50.172669",
+    "total_candidatos": 7,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Colaboração",
+      "Qualidade",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Plano odontológico",
+      "Home office",
+      "Plano de saúde",
+      "Certificações",
+      "Curso de idiomas",
+      "Previdência privada",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0033",
+    "titulo": "Arquiteto Mobile Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Arquiteto Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Mobile",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Terraform",
+      "Ansible"
+    ],
+    "tecnologias_desejaveis": [
+      "JavaScript",
+      "TypeScript"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Iniciativa",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Nogueira",
+    "estado": "CE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-01T13:58:50.172685",
+    "prazo_fechamento": "2025-11-03T13:58:50.172686",
+    "total_candidatos": 21,
+    "candidatos_aprovados": 0,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Excelência",
+      "Qualidade",
+      "Sustentabilidade",
+      "Diversidade",
+      "Colaboração",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Certificações",
+      "Gympass",
+      "Stock options",
+      "Home office",
+      "Horário flexível",
+      "Vale transporte",
+      "Vale refeição",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0034",
+    "titulo": "Especialista UX/UI Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Especialista UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "UX/UI",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "C#",
+      "Swift",
+      "Flask",
+      "Jenkins",
+      "Git"
+    ],
+    "tecnologias_desejaveis": [
+      "AWS",
+      "Flask"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Pensamento crítico"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo",
+      "Adaptabilidade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Jesus de Borges",
+    "estado": "RN",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-07-30T13:58:50.172705",
+    "prazo_fechamento": "2025-11-07T13:58:50.172706",
+    "total_candidatos": 21,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Agilidade",
+      "Diversidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Home office",
+      "Vale transporte",
+      "Stock options",
+      "Vale refeição",
+      "Curso de idiomas",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0035",
+    "titulo": "Junior QA Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Junior QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "QA",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "GCP",
+      "Python",
+      "ETL",
+      "C#"
+    ],
+    "tecnologias_desejaveis": [
+      "Pandas",
+      "Grafana",
+      "Data Science",
+      "MongoDB",
+      "GCP",
+      "Python"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo",
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Liderança"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "da Costa",
+    "estado": "PB",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-16T13:58:50.172723",
+    "prazo_fechamento": "2025-11-08T13:58:50.172725",
+    "total_candidatos": 39,
+    "candidatos_aprovados": 7,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Colaboração",
+      "Transparência",
+      "Qualidade",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Gympass",
+      "Plano de saúde",
+      "Previdência privada",
+      "Vale refeição",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0036",
+    "titulo": "Arquiteto Fullstack Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Arquiteto Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Fullstack",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Kafka",
+      "Terraform",
+      "GitLab CI"
+    ],
+    "tecnologias_desejaveis": [
+      "Docker",
+      "React",
+      "MongoDB",
+      "Kafka",
+      "Flutter",
+      "Java"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Liderança",
+      "Comunicação",
+      "Pensamento crítico"
+    ],
+    "soft_skills_desejaveis": [
+      "Trabalho em equipe"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Nogueira Verde",
+    "estado": "AC",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Média",
+    "data_abertura": "2025-08-02T13:58:50.172746",
+    "prazo_fechamento": "2025-11-17T13:58:50.172747",
+    "total_candidatos": 15,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Colaboração",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Vale refeição",
+      "Home office",
+      "Vale transporte",
+      "Horário flexível",
+      "Stock options",
+      "Previdência privada",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0037",
+    "titulo": "Especialista DevOps Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Especialista DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "DevOps",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Pandas",
+      "Angular",
+      "Go",
+      "Scikit-learn"
+    ],
+    "tecnologias_desejaveis": [
+      "Numpy",
+      "Rust",
+      "Kafka",
+      "R"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Trabalho em equipe",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Avançado",
+    "cidade": "Nunes",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-07-18T13:58:50.172764",
+    "prazo_fechamento": "2025-10-28T13:58:50.172765",
+    "total_candidatos": 43,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Excelência",
+      "Qualidade",
+      "Transparência",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Stock options",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Plano de saúde",
+      "Certificações",
+      "Home office",
+      "Plano odontológico",
+      "Horário flexível",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0038",
+    "titulo": "Junior Fullstack Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Junior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "PyTorch",
+      "Spring Boot",
+      "ETL",
+      "React Native"
+    ],
+    "tecnologias_desejaveis": [
+      "Spring Boot",
+      "Power BI",
+      "Django"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Trabalho em equipe"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Orientação a resultados"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Porto do Sul",
+    "estado": "RR",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-11T13:58:50.172783",
+    "prazo_fechamento": "2025-11-09T13:58:50.172785",
+    "total_candidatos": 43,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Inovação",
+      "Transparência",
+      "Excelência",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Gympass",
+      "Plano de saúde",
+      "Plano odontológico",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0039",
+    "titulo": "Pleno UX/UI Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Pleno UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "UX/UI",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Swift",
+      "Spring Boot",
+      "R",
+      "Vue.js"
+    ],
+    "tecnologias_desejaveis": [
+      "Terraform",
+      "Scala",
+      "Kubernetes"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Básico",
+    "cidade": "da Cunha",
+    "estado": "PI",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-26T13:58:50.172800",
+    "prazo_fechamento": "2025-11-16T13:58:50.172801",
+    "total_candidatos": 8,
+    "candidatos_aprovados": 5,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Crescimento",
+      "Excelência",
+      "Transparência",
+      "Agilidade",
+      "Qualidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Plano de saúde",
+      "Vale transporte",
+      "Vale refeição",
+      "Home office",
+      "Previdência privada",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0040",
+    "titulo": "Junior QA Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Junior QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "QA",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Redis",
+      "Ansible",
+      "Kotlin",
+      "Apache Spark",
+      "JavaScript"
+    ],
+    "tecnologias_desejaveis": [
+      "Flask",
+      "Scikit-learn",
+      "Rust",
+      "TensorFlow",
+      "AWS",
+      "Node.js",
+      "Java",
+      "MongoDB"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Trabalho em equipe",
+      "Iniciativa",
+      "Gestão de tempo"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Aparecida de Câmara",
+    "estado": "PB",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-04T13:58:50.172821",
+    "prazo_fechamento": "2025-11-04T13:58:50.172823",
+    "total_candidatos": 5,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Diversidade",
+      "Sustentabilidade",
+      "Excelência",
+      "Agilidade",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Horário flexível",
+      "Plano odontológico",
+      "Stock options",
+      "Plano de saúde",
+      "Previdência privada",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0041",
+    "titulo": "Lead QA Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Lead QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "QA",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "TypeScript",
+      "Redis",
+      "Scikit-learn",
+      "MySQL"
+    ],
+    "tecnologias_desejaveis": [
+      "C#",
+      "Unity",
+      "MongoDB",
+      "Redis",
+      "SQL",
+      "JavaScript",
+      "RabbitMQ",
+      "Elasticsearch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Resolução de problemas",
+      "Flexibilidade",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Resolução de problemas"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Fluente",
+    "cidade": "Viana",
+    "estado": "AL",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-09-05T13:58:50.172840",
+    "prazo_fechamento": "2025-11-02T13:58:50.172841",
+    "total_candidatos": 17,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Transparência",
+      "Diversidade",
+      "Crescimento",
+      "Inovação",
+      "Sustentabilidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Plano odontológico",
+      "Horário flexível",
+      "Plano de saúde",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0042",
+    "titulo": "Arquiteto Mobile Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Arquiteto Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Mobile",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Vue.js",
+      "Tableau",
+      "Data Science"
+    ],
+    "tecnologias_desejaveis": [
+      "Data Science",
+      "ETL",
+      "JavaScript",
+      "PyTorch",
+      "Rust",
+      "Machine Learning",
+      "Apache Spark",
+      "Tableau"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Iniciativa",
+      "Gestão de tempo",
+      "Liderança"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Criatividade"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Ferreira",
+    "estado": "GO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Média",
+    "data_abertura": "2025-07-17T13:58:50.172859",
+    "prazo_fechamento": "2025-10-25T13:58:50.172860",
+    "total_candidatos": 20,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Transparência",
+      "Sustentabilidade",
+      "Crescimento",
+      "Inovação",
+      "Excelência",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Gympass",
+      "Previdência privada",
+      "Vale refeição",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0043",
+    "titulo": "Junior Backend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Prometheus",
+      "Java",
+      "Terraform",
+      "Go",
+      "PostgreSQL"
+    ],
+    "tecnologias_desejaveis": [
+      "Kotlin",
+      "Kafka",
+      ".NET",
+      "Go"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Iniciativa",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Pensamento crítico",
+      "Gestão de tempo",
+      "Criatividade"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Vasconcelos da Praia",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-10T13:58:50.172880",
+    "prazo_fechamento": "2025-11-09T13:58:50.172881",
+    "total_candidatos": 35,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Excelência",
+      "Diversidade",
+      "Crescimento",
+      "Inovação",
+      "Agilidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Vale transporte",
+      "Previdência privada",
+      "Home office",
+      "Gympass",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0044",
+    "titulo": "Junior Frontend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Junior Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Frontend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Data Science",
+      "Angular",
+      "Flutter",
+      "Jenkins"
+    ],
+    "tecnologias_desejaveis": [
+      "C#",
+      "Prometheus",
+      "Apache Spark"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo",
+      "Criatividade",
+      "Pensamento crítico",
+      "Liderança"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Caldeira",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Média",
+    "data_abertura": "2025-08-27T13:58:50.172898",
+    "prazo_fechamento": "2025-10-27T13:58:50.172899",
+    "total_candidatos": 50,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Diversidade",
+      "Inovação",
+      "Excelência",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Stock options",
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Certificações",
+      "Horário flexível",
+      "Vale transporte",
+      "Day off aniversário",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0045",
+    "titulo": "Senior Mobile Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Senior Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Mobile",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Scala",
+      "Unreal Engine",
+      "TypeScript"
+    ],
+    "tecnologias_desejaveis": [
+      "Numpy",
+      "Grafana",
+      "Azure",
+      "Power BI",
+      ".NET"
+    ],
+    "soft_skills_obrigatorias": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Nunes",
+    "estado": "RN",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-11T13:58:50.172916",
+    "prazo_fechamento": "2025-10-09T13:58:50.172918",
+    "total_candidatos": 28,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Excelência",
+      "Qualidade",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Home office",
+      "Gympass",
+      "Plano de saúde",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0046",
+    "titulo": "Lead UX/UI Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Lead UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "UX/UI",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Swift",
+      "Tableau",
+      "SQL",
+      "Machine Learning"
+    ],
+    "tecnologias_desejaveis": [
+      "Node.js",
+      "Machine Learning"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Liderança"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Fluente",
+    "cidade": "Pires Grande",
+    "estado": "AL",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-29T13:58:50.172939",
+    "prazo_fechamento": "2025-11-01T13:58:50.172940",
+    "total_candidatos": 13,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Diversidade",
+      "Colaboração",
+      "Crescimento",
+      "Agilidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Vale refeição",
+      "Stock options",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0047",
+    "titulo": "Pleno UX/UI Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Pleno UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "UX/UI",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Terraform",
+      "Git"
+    ],
+    "tecnologias_desejaveis": [
+      "TensorFlow",
+      "Power BI",
+      "JavaScript",
+      "React Native",
+      "Java",
+      "Django",
+      "Microservices"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Orientação a resultados",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Pensamento crítico"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Jesus das Flores",
+    "estado": "ES",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-28T13:58:50.172958",
+    "prazo_fechamento": "2025-11-09T13:58:50.172959",
+    "total_candidatos": 49,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Excelência",
+      "Colaboração",
+      "Agilidade",
+      "Crescimento",
+      "Inovação",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Horário flexível",
+      "Certificações",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0048",
+    "titulo": "Senior Fullstack Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Senior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Go",
+      "Java",
+      "Apache Spark"
+    ],
+    "tecnologias_desejaveis": [
+      "Docker",
+      "Numpy",
+      "Go",
+      "ETL",
+      "Machine Learning",
+      "Unity",
+      "GCP"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Adaptabilidade",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade",
+      "Orientação a resultados",
+      "Resolução de problemas"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "da Mata Paulista",
+    "estado": "SP",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-06-29T13:58:50.172978",
+    "prazo_fechamento": "2025-11-12T13:58:50.172979",
+    "total_candidatos": 17,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Qualidade",
+      "Sustentabilidade",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Previdência privada",
+      "Plano odontológico",
+      "Home office",
+      "Stock options",
+      "Plano de saúde",
+      "Vale transporte",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0049",
+    "titulo": "Especialista Backend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Especialista Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Backend",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Microservices",
+      "Prometheus"
+    ],
+    "tecnologias_desejaveis": [
+      "TypeScript",
+      "Pandas"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Colaboração",
+      "Liderança"
+    ],
+    "soft_skills_desejaveis": [
+      "Iniciativa",
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Colaboração"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Sales da Prata",
+    "estado": "MA",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-07-26T13:58:50.172996",
+    "prazo_fechamento": "2025-10-11T13:58:50.172998",
+    "total_candidatos": 14,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Excelência",
+      "Agilidade",
+      "Qualidade",
+      "Sustentabilidade",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Vale transporte",
+      "Day off aniversário",
+      "Horário flexível",
+      "Gympass",
+      "Certificações",
+      "Previdência privada",
+      "Plano odontológico",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0050",
+    "titulo": "Pleno Mobile Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Pleno Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Mobile",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Spring Boot",
+      "Django",
+      "AWS",
+      "R"
+    ],
+    "tecnologias_desejaveis": [
+      "Django",
+      "Flask",
+      "Scala"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Flexibilidade",
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Adaptabilidade",
+      "Colaboração"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Ribeiro",
+    "estado": "SP",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-06T13:58:50.173015",
+    "prazo_fechamento": "2025-10-07T13:58:50.173017",
+    "total_candidatos": 29,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Inovação",
+      "Agilidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Day off aniversário",
+      "Plano odontológico",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Gympass",
+      "Vale refeição",
+      "Plano de saúde",
+      "Certificações",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0051",
+    "titulo": "Especialista Data Science Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Especialista Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Data Science",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Python",
+      "Machine Learning",
+      "Power BI"
+    ],
+    "tecnologias_desejaveis": [
+      "Azure",
+      "Swift",
+      "Pandas",
+      "Redis"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Barbosa Alegre",
+    "estado": "DF",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-04T13:58:50.173035",
+    "prazo_fechamento": "2025-10-29T13:58:50.173036",
+    "total_candidatos": 19,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Diversidade",
+      "Colaboração",
+      "Transparência",
+      "Sustentabilidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Vale refeição",
+      "Home office",
+      "Certificações",
+      "Gympass",
+      "Previdência privada",
+      "Stock options",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0052",
+    "titulo": "Junior QA Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Junior QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "QA",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "React",
+      "Numpy"
+    ],
+    "tecnologias_desejaveis": [
+      "Tableau",
+      "Jenkins",
+      "Swift",
+      "Elasticsearch",
+      "PostgreSQL",
+      "Java",
+      "Numpy",
+      "Power BI"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Iniciativa",
+      "Adaptabilidade"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Alves",
+    "estado": "MT",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-07-27T13:58:50.173053",
+    "prazo_fechamento": "2025-11-24T13:58:50.173054",
+    "total_candidatos": 5,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Diversidade",
+      "Colaboração",
+      "Sustentabilidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Stock options",
+      "Day off aniversário",
+      "Vale transporte"
+    ]
+  },
+  {
+    "id": "VAGA_0053",
+    "titulo": "Pleno Backend Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Pleno Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Backend",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "React",
+      "Kubernetes",
+      "Numpy",
+      "GCP"
+    ],
+    "tecnologias_desejaveis": [
+      "Scala",
+      "Elasticsearch",
+      "Hadoop",
+      "Prometheus",
+      "Kafka",
+      "PyTorch",
+      "Numpy",
+      "SQL"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Comunicação",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Liderança",
+      "Gestão de tempo"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Fluente",
+    "cidade": "Cirino",
+    "estado": "PR",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Média",
+    "data_abertura": "2025-08-01T13:58:50.173071",
+    "prazo_fechamento": "2025-11-14T13:58:50.173072",
+    "total_candidatos": 29,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Crescimento",
+      "Excelência",
+      "Qualidade",
+      "Agilidade",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Plano odontológico",
+      "Certificações",
+      "Gympass",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0054",
+    "titulo": "Junior Backend Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Redis",
+      "Kubernetes",
+      "Java",
+      "Data Science"
+    ],
+    "tecnologias_desejaveis": [
+      "Go",
+      "Unity",
+      "Scikit-learn",
+      "ETL",
+      "Jenkins",
+      "Docker",
+      "Azure"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Trabalho em equipe",
+      "Iniciativa"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Avançado",
+    "cidade": "Pacheco de da Mata",
+    "estado": "MA",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-23T13:58:50.173091",
+    "prazo_fechamento": "2025-10-22T13:58:50.173092",
+    "total_candidatos": 41,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Crescimento",
+      "Inovação",
+      "Sustentabilidade",
+      "Excelência",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Curso de idiomas",
+      "Day off aniversário",
+      "Previdência privada",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0055",
+    "titulo": "Senior QA Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Senior QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "QA",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Redis",
+      "Numpy",
+      "RabbitMQ",
+      "Scikit-learn",
+      "Angular"
+    ],
+    "tecnologias_desejaveis": [
+      "Flutter",
+      "Kubernetes",
+      "Ansible",
+      "GitLab CI",
+      "Elasticsearch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Criatividade",
+      "Adaptabilidade",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Avançado",
+    "cidade": "Martins do Campo",
+    "estado": "RN",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-22T13:58:50.173110",
+    "prazo_fechamento": "2025-11-10T13:58:50.173111",
+    "total_candidatos": 29,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Crescimento",
+      "Excelência",
+      "Inovação",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Stock options",
+      "Home office",
+      "Plano de saúde",
+      "Horário flexível",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Day off aniversário",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0056",
+    "titulo": "Arquiteto Mobile Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Arquiteto Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Mobile",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Docker",
+      "Terraform"
+    ],
+    "tecnologias_desejaveis": [
+      "Node.js",
+      "Flask",
+      "TensorFlow",
+      "Kafka"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Resolução de problemas",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Trabalho em equipe",
+      "Adaptabilidade"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Abreu",
+    "estado": "PE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-05T13:58:50.173128",
+    "prazo_fechamento": "2025-11-15T13:58:50.173129",
+    "total_candidatos": 32,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Qualidade",
+      "Excelência",
+      "Sustentabilidade",
+      "Colaboração",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Vale transporte",
+      "Previdência privada",
+      "Stock options",
+      "Horário flexível",
+      "Certificações",
+      "Day off aniversário",
+      "Home office",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0057",
+    "titulo": "Lead DevOps Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Lead DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "DevOps",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Scikit-learn",
+      "RabbitMQ",
+      "MySQL",
+      "Azure"
+    ],
+    "tecnologias_desejaveis": [
+      "PostgreSQL",
+      "Grafana",
+      "MongoDB",
+      "Java",
+      "TensorFlow",
+      "C#"
+    ],
+    "soft_skills_obrigatorias": [
+      "Flexibilidade",
+      "Colaboração",
+      "Liderança",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Iniciativa"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Sampaio de Duarte",
+    "estado": "RJ",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-07-15T13:58:50.173149",
+    "prazo_fechamento": "2025-11-15T13:58:50.173150",
+    "total_candidatos": 39,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Agilidade",
+      "Transparência",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Day off aniversário",
+      "Plano de saúde",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0058",
+    "titulo": "Arquiteto Fullstack Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Arquiteto Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Fullstack",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "C#",
+      "JavaScript",
+      "Microservices",
+      "Git",
+      "Redis"
+    ],
+    "tecnologias_desejaveis": [
+      "TensorFlow",
+      "GitLab CI",
+      "Kubernetes",
+      "MySQL",
+      "ETL",
+      "Scala",
+      "Grafana",
+      "Terraform"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Iniciativa",
+      "Liderança"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "da Rocha",
+    "estado": "RS",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-09T13:58:50.173168",
+    "prazo_fechamento": "2025-10-08T13:58:50.173170",
+    "total_candidatos": 14,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Inovação",
+      "Transparência",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Home office",
+      "Vale transporte",
+      "Plano de saúde",
+      "Stock options",
+      "Plano odontológico",
+      "Previdência privada",
+      "Day off aniversário",
+      "Certificações",
+      "Horário flexível",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0059",
+    "titulo": "Lead QA Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Lead QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "QA",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Scikit-learn",
+      "Jenkins",
+      "ETL",
+      "Tableau"
+    ],
+    "tecnologias_desejaveis": [
+      "Microservices",
+      "Python",
+      "Pandas",
+      "Elasticsearch",
+      "Unreal Engine",
+      "Angular",
+      "Numpy",
+      "Hadoop"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Criatividade",
+      "Resolução de problemas"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "Duarte das Flores",
+    "estado": "PI",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-17T13:58:50.173190",
+    "prazo_fechamento": "2025-10-18T13:58:50.173191",
+    "total_candidatos": 39,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Agilidade",
+      "Qualidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Plano de saúde",
+      "Stock options",
+      "Vale refeição",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0060",
+    "titulo": "Pleno Data Science Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Pleno Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Data Science",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Docker",
+      "MongoDB",
+      "Grafana",
+      "AWS"
+    ],
+    "tecnologias_desejaveis": [
+      "Vue.js",
+      "Java",
+      "Redis",
+      "Azure",
+      "Power BI",
+      "RabbitMQ",
+      "Scala"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Colaboração",
+      "Orientação a resultados",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Garcia de Lima",
+    "estado": "SE",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-07T13:58:50.173213",
+    "prazo_fechamento": "2025-11-24T13:58:50.173214",
+    "total_candidatos": 46,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Qualidade",
+      "Colaboração",
+      "Agilidade",
+      "Transparência",
+      "Crescimento",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Home office",
+      "Vale refeição",
+      "Plano de saúde",
+      "Previdência privada",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0061",
+    "titulo": "Senior Frontend Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Senior Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Frontend",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Flutter",
+      "Pandas",
+      "Hadoop"
+    ],
+    "tecnologias_desejaveis": [
+      "Elasticsearch",
+      "Prometheus",
+      "Jenkins",
+      "Docker"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Liderança",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Colaboração"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Almeida de Jesus",
+    "estado": "MA",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-09T13:58:50.173233",
+    "prazo_fechamento": "2025-10-25T13:58:50.173235",
+    "total_candidatos": 30,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Agilidade",
+      "Inovação",
+      "Colaboração",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Gympass",
+      "Horário flexível",
+      "Day off aniversário",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0062",
+    "titulo": "Junior Backend Developer",
+    "empresa": "BigTech",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Terraform",
+      "Flutter",
+      "Python",
+      "RabbitMQ",
+      "Swift"
+    ],
+    "tecnologias_desejaveis": [
+      "Django",
+      ".NET",
+      "Microservices",
+      "Hadoop",
+      "GitLab CI"
+    ],
+    "soft_skills_obrigatorias": [
+      "Resolução de problemas",
+      "Comunicação",
+      "Liderança"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade",
+      "Adaptabilidade",
+      "Resolução de problemas"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "das Neves",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-09-05T13:58:50.173252",
+    "prazo_fechamento": "2025-10-19T13:58:50.173253",
+    "total_candidatos": 6,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Inovação",
+      "Transparência",
+      "Qualidade",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Certificações",
+      "Vale refeição",
+      "Previdência privada",
+      "Day off aniversário",
+      "Home office",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0063",
+    "titulo": "Pleno Fullstack Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Pleno Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Fullstack",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Terraform",
+      "TypeScript"
+    ],
+    "tecnologias_desejaveis": [
+      "Flutter",
+      "Go",
+      "Grafana",
+      "React Native",
+      "MongoDB"
+    ],
+    "soft_skills_obrigatorias": [
+      "Colaboração",
+      "Pensamento crítico",
+      "Trabalho em equipe",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Criatividade",
+      "Gestão de tempo",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "da Rocha",
+    "estado": "PB",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-11T13:58:50.173271",
+    "prazo_fechamento": "2025-11-13T13:58:50.173272",
+    "total_candidatos": 39,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Crescimento",
+      "Transparência",
+      "Excelência",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Plano de saúde",
+      "Stock options",
+      "Home office",
+      "Vale refeição",
+      "Horário flexível",
+      "Gympass",
+      "Certificações",
+      "Plano odontológico",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0064",
+    "titulo": "Lead Data Science Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Lead Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Data Science",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "GCP",
+      "Machine Learning",
+      "ETL"
+    ],
+    "tecnologias_desejaveis": [
+      "RabbitMQ",
+      "Numpy",
+      ".NET"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Trabalho em equipe"
+    ],
+    "soft_skills_desejaveis": [
+      "Trabalho em equipe",
+      "Orientação a resultados"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Pereira",
+    "estado": "RO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Em andamento",
+    "prioridade": "Alta",
+    "data_abertura": "2025-06-30T13:58:50.173288",
+    "prazo_fechamento": "2025-11-08T13:58:50.173290",
+    "total_candidatos": 31,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Crescimento",
+      "Inovação",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Gympass",
+      "Vale refeição",
+      "Plano odontológico",
+      "Plano de saúde",
+      "Previdência privada",
+      "Certificações",
+      "Stock options",
+      "Horário flexível",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0065",
+    "titulo": "Senior Fullstack Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Senior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Machine Learning",
+      "Vue.js"
+    ],
+    "tecnologias_desejaveis": [
+      "Docker",
+      "Django",
+      "Machine Learning"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Criatividade",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Pensamento crítico"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Câmara",
+    "estado": "AM",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-08T13:58:50.173306",
+    "prazo_fechamento": "2025-10-11T13:58:50.173308",
+    "total_candidatos": 29,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Qualidade",
+      "Diversidade",
+      "Crescimento",
+      "Colaboração",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Previdência privada",
+      "Vale refeição",
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Certificações",
+      "Plano de saúde",
+      "Horário flexível",
+      "Home office",
+      "Day off aniversário"
+    ]
+  },
+  {
+    "id": "VAGA_0066",
+    "titulo": "Junior Data Science Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Junior Data Science com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Data Science",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Python",
+      "PostgreSQL",
+      "Kafka",
+      "Java"
+    ],
+    "tecnologias_desejaveis": [
+      "Flask",
+      "Python",
+      "Terraform",
+      "Hadoop",
+      "Tableau",
+      "Ansible",
+      ".NET",
+      "Data Science"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Trabalho em equipe",
+      "Iniciativa",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade",
+      "Pensamento crítico"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "Nascimento",
+    "estado": "RS",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-06T13:58:50.173326",
+    "prazo_fechamento": "2025-11-11T13:58:50.173327",
+    "total_candidatos": 25,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Transparência",
+      "Crescimento",
+      "Agilidade",
+      "Diversidade",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Previdência privada",
+      "Home office",
+      "Stock options",
+      "Vale refeição",
+      "Plano odontológico",
+      "Day off aniversário",
+      "Horário flexível",
+      "Curso de idiomas",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0067",
+    "titulo": "Junior Fullstack Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Junior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "SQL",
+      "Terraform"
+    ],
+    "tecnologias_desejaveis": [
+      "Go",
+      "Flask",
+      "Django",
+      "Scikit-learn",
+      "MySQL",
+      "Node.js"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Azevedo do Sul",
+    "estado": "AL",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-26T13:58:50.173347",
+    "prazo_fechamento": "2025-11-02T13:58:50.173348",
+    "total_candidatos": 47,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Qualidade",
+      "Transparência",
+      "Inovação",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Home office",
+      "Gympass",
+      "Curso de idiomas",
+      "Vale refeição",
+      "Stock options",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0068",
+    "titulo": "Lead Mobile Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Lead Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Mobile",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "AWS",
+      "Go",
+      "Vue.js"
+    ],
+    "tecnologias_desejaveis": [
+      "SQL",
+      "PyTorch",
+      "C#"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Liderança"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Dias do Amparo",
+    "estado": "AC",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Média",
+    "data_abertura": "2025-09-17T13:58:50.173397",
+    "prazo_fechamento": "2025-10-27T13:58:50.173398",
+    "total_candidatos": 23,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Excelência",
+      "Transparência",
+      "Diversidade",
+      "Agilidade",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Day off aniversário",
+      "Horário flexível",
+      "Gympass",
+      "Vale refeição",
+      "Stock options",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0069",
+    "titulo": "Junior Mobile Developer",
+    "empresa": "AICompany",
+    "descricao": "Vaga para Junior Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Mobile",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Ansible",
+      "Redis"
+    ],
+    "tecnologias_desejaveis": [
+      "C#",
+      "Spring Boot",
+      "React Native",
+      "Tableau"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Iniciativa",
+      "Colaboração"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Fluente",
+    "cidade": "Leão do Campo",
+    "estado": "RO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-08T13:58:50.173416",
+    "prazo_fechamento": "2025-11-13T13:58:50.173418",
+    "total_candidatos": 30,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Colaboração",
+      "Diversidade",
+      "Sustentabilidade",
+      "Excelência",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Plano de saúde",
+      "Vale transporte",
+      "Previdência privada",
+      "Horário flexível",
+      "Day off aniversário"
+    ]
+  },
+  {
+    "id": "VAGA_0070",
+    "titulo": "Pleno Fullstack Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Pleno Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Fullstack",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Docker",
+      "Java",
+      "Redis"
+    ],
+    "tecnologias_desejaveis": [
+      "React",
+      "JavaScript",
+      "MySQL",
+      "Flask",
+      "Hadoop",
+      "MongoDB",
+      "PyTorch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Iniciativa",
+      "Trabalho em equipe",
+      "Flexibilidade"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Porto",
+    "estado": "DF",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-15T13:58:50.173435",
+    "prazo_fechamento": "2025-11-17T13:58:50.173436",
+    "total_candidatos": 38,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Colaboração",
+      "Inovação",
+      "Crescimento",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Previdência privada",
+      "Vale refeição",
+      "Plano de saúde",
+      "Certificações",
+      "Day off aniversário",
+      "Stock options"
+    ]
+  },
+  {
+    "id": "VAGA_0071",
+    "titulo": "Senior DevOps Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Senior DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "DevOps",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Kubernetes",
+      "PyTorch",
+      "Prometheus",
+      "Kotlin"
+    ],
+    "tecnologias_desejaveis": [
+      "Python",
+      "Git"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Adaptabilidade",
+      "Liderança",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Resolução de problemas"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "da Mata",
+    "estado": "DF",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-07-04T13:58:50.173453",
+    "prazo_fechamento": "2025-11-22T13:58:50.173454",
+    "total_candidatos": 41,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Crescimento",
+      "Diversidade",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Plano de saúde",
+      "Day off aniversário",
+      "Previdência privada",
+      "Plano odontológico",
+      "Curso de idiomas",
+      "Vale transporte",
+      "Home office",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0072",
+    "titulo": "Lead QA Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Lead QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "QA",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Flutter",
+      "Microservices",
+      "Grafana"
+    ],
+    "tecnologias_desejaveis": [
+      "Angular",
+      "Data Science",
+      "Jenkins",
+      "ETL",
+      "Node.js",
+      "Flutter",
+      "PyTorch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Gestão de tempo",
+      "Pensamento crítico"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Rios",
+    "estado": "PE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-02T13:58:50.173471",
+    "prazo_fechamento": "2025-10-13T13:58:50.173473",
+    "total_candidatos": 47,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Agilidade",
+      "Transparência",
+      "Inovação",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Home office",
+      "Plano de saúde",
+      "Day off aniversário",
+      "Certificações",
+      "Gympass",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0073",
+    "titulo": "Lead UX/UI Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Lead UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "UX/UI",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Prometheus",
+      "Microservices"
+    ],
+    "tecnologias_desejaveis": [
+      "Ansible",
+      "Vue.js",
+      "SQL",
+      "JavaScript",
+      "Elasticsearch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Adaptabilidade",
+      "Iniciativa",
+      "Liderança"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Cardoso de da Rocha",
+    "estado": "PI",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-07-09T13:58:50.173491",
+    "prazo_fechamento": "2025-10-12T13:58:50.173492",
+    "total_candidatos": 34,
+    "candidatos_aprovados": 9,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Colaboração",
+      "Crescimento",
+      "Qualidade",
+      "Sustentabilidade",
+      "Inovação",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Certificações",
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Gympass",
+      "Plano de saúde",
+      "Home office",
+      "Stock options"
+    ]
+  },
+  {
+    "id": "VAGA_0074",
+    "titulo": "Pleno Frontend Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Pleno Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Frontend",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Ansible",
+      "Terraform",
+      "R",
+      "Flutter",
+      "Prometheus"
+    ],
+    "tecnologias_desejaveis": [
+      "Ansible",
+      "C#",
+      "Flask",
+      "Hadoop",
+      "GitLab CI",
+      "Numpy"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Adaptabilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Criatividade",
+      "Iniciativa",
+      "Colaboração"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Novaes",
+    "estado": "AL",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Média",
+    "data_abertura": "2025-07-11T13:58:50.173510",
+    "prazo_fechamento": "2025-10-21T13:58:50.173511",
+    "total_candidatos": 47,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Qualidade",
+      "Transparência",
+      "Excelência",
+      "Diversidade",
+      "Inovação",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Day off aniversário",
+      "Plano de saúde",
+      "Horário flexível",
+      "Curso de idiomas",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0075",
+    "titulo": "Senior Backend Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Senior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Backend",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Machine Learning",
+      "Java",
+      "Pandas",
+      "Python",
+      "Unity"
+    ],
+    "tecnologias_desejaveis": [
+      "Kafka",
+      "Redis",
+      "Tableau",
+      "React Native",
+      "Machine Learning",
+      "MongoDB"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Flexibilidade",
+      "Iniciativa",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Trabalho em equipe",
+      "Colaboração",
+      "Resolução de problemas"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Cunha das Flores",
+    "estado": "MA",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-26T13:58:50.173530",
+    "prazo_fechamento": "2025-10-22T13:58:50.173531",
+    "total_candidatos": 34,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Diversidade",
+      "Colaboração",
+      "Agilidade",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Curso de idiomas",
+      "Vale refeição",
+      "Gympass",
+      "Stock options",
+      "Plano de saúde",
+      "Previdência privada",
+      "Day off aniversário",
+      "Vale transporte",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0076",
+    "titulo": "Arquiteto QA Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Arquiteto QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "QA",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Flask",
+      "Node.js",
+      "React Native",
+      "JavaScript"
+    ],
+    "tecnologias_desejaveis": [
+      "Prometheus",
+      "Spring Boot",
+      "Kafka"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Iniciativa",
+      "Comunicação"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Machado",
+    "estado": "RR",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-22T13:58:50.173548",
+    "prazo_fechamento": "2025-10-10T13:58:50.173549",
+    "total_candidatos": 19,
+    "candidatos_aprovados": 0,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Crescimento",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Previdência privada",
+      "Plano odontológico",
+      "Day off aniversário",
+      "Gympass",
+      "Horário flexível",
+      "Home office",
+      "Vale refeição",
+      "Plano de saúde"
+    ]
+  },
+  {
+    "id": "VAGA_0077",
+    "titulo": "Especialista DevOps Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Especialista DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "DevOps",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "RabbitMQ",
+      "Unity",
+      "Terraform"
+    ],
+    "tecnologias_desejaveis": [
+      "TypeScript",
+      "Python"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados",
+      "Gestão de tempo",
+      "Flexibilidade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Azevedo da Praia",
+    "estado": "MG",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-08T13:58:50.173567",
+    "prazo_fechamento": "2025-10-22T13:58:50.173568",
+    "total_candidatos": 11,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Crescimento",
+      "Qualidade",
+      "Agilidade",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Curso de idiomas",
+      "Day off aniversário",
+      "Previdência privada",
+      "Vale transporte",
+      "Gympass",
+      "Plano odontológico",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0078",
+    "titulo": "Especialista Frontend Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Especialista Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Frontend",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "ETL",
+      "C#"
+    ],
+    "tecnologias_desejaveis": [
+      "Elasticsearch",
+      "Terraform",
+      "R"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Orientação a resultados",
+      "Flexibilidade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Rezende do Amparo",
+    "estado": "MT",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-03T13:58:50.173596",
+    "prazo_fechamento": "2025-10-25T13:58:50.173598",
+    "total_candidatos": 32,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Transparência",
+      "Qualidade",
+      "Inovação",
+      "Agilidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Vale transporte",
+      "Home office",
+      "Certificações",
+      "Horário flexível",
+      "Day off aniversário",
+      "Plano odontológico",
+      "Stock options",
+      "Previdência privada",
+      "Gympass"
+    ]
+  },
+  {
+    "id": "VAGA_0079",
+    "titulo": "Pleno Fullstack Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Pleno Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "Fullstack",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Apache Spark",
+      "Python"
+    ],
+    "tecnologias_desejaveis": [
+      "GCP",
+      "AWS",
+      "ETL",
+      "SQL"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Comunicação",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade",
+      "Pensamento crítico",
+      "Gestão de tempo",
+      "Orientação a resultados"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Garcia dos Dourados",
+    "estado": "AC",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-16T13:58:50.173616",
+    "prazo_fechamento": "2025-10-14T13:58:50.173618",
+    "total_candidatos": 11,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Inovação",
+      "Crescimento",
+      "Diversidade",
+      "Excelência",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Home office",
+      "Previdência privada",
+      "Plano odontológico",
+      "Vale transporte",
+      "Plano de saúde",
+      "Stock options"
+    ]
+  },
+  {
+    "id": "VAGA_0080",
+    "titulo": "Lead Frontend Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Lead Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Frontend",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Prometheus",
+      "Spring Boot",
+      "Power BI"
+    ],
+    "tecnologias_desejaveis": [
+      "Angular",
+      "Kotlin",
+      "React"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Resolução de problemas",
+      "Liderança",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Gestão de tempo",
+      "Criatividade",
+      "Colaboração"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Fernandes do Norte",
+    "estado": "AM",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-18T13:58:50.173636",
+    "prazo_fechamento": "2025-10-24T13:58:50.173637",
+    "total_candidatos": 15,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Transparência",
+      "Excelência",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Horário flexível",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0081",
+    "titulo": "Especialista Mobile Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Especialista Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "Mobile",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "React",
+      "TypeScript",
+      "Jenkins",
+      "TensorFlow",
+      "Swift"
+    ],
+    "tecnologias_desejaveis": [
+      "TypeScript",
+      "Terraform",
+      "Redis",
+      "Apache Spark",
+      "Angular",
+      "MongoDB",
+      "RabbitMQ"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Orientação a resultados",
+      "Pensamento crítico"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Flexibilidade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Avançado",
+    "cidade": "Santos",
+    "estado": "AC",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-09-12T13:58:50.173654",
+    "prazo_fechamento": "2025-11-26T13:58:50.173655",
+    "total_candidatos": 34,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Crescimento",
+      "Agilidade",
+      "Transparência",
+      "Diversidade",
+      "Qualidade"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Home office",
+      "Plano odontológico",
+      "Day off aniversário",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0082",
+    "titulo": "Pleno DevOps Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Pleno DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "DevOps",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "Grafana",
+      "Angular",
+      "Kotlin"
+    ],
+    "tecnologias_desejaveis": [
+      "React",
+      "R",
+      "Kubernetes",
+      "GCP",
+      "SQL",
+      "TensorFlow",
+      "Apache Spark",
+      "Docker"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Colaboração",
+      "Pensamento crítico"
+    ],
+    "soft_skills_desejaveis": [
+      "Colaboração",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Porto da Praia",
+    "estado": "RJ",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-08-21T13:58:50.173674",
+    "prazo_fechamento": "2025-11-25T13:58:50.173675",
+    "total_candidatos": 40,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Colaboração",
+      "Sustentabilidade",
+      "Excelência",
+      "Inovação",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Horário flexível",
+      "Home office",
+      "Plano odontológico",
+      "Certificações",
+      "Day off aniversário",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Vale refeição"
+    ]
+  },
+  {
+    "id": "VAGA_0083",
+    "titulo": "Junior Backend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Junior Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Backend",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Tableau",
+      "Microservices",
+      "Kubernetes",
+      "MySQL",
+      "PostgreSQL"
+    ],
+    "tecnologias_desejaveis": [
+      "Ansible",
+      "Machine Learning",
+      "Angular",
+      "Rust",
+      "Microservices",
+      "RabbitMQ",
+      "Flutter",
+      "Kotlin"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Nunes",
+    "estado": "PR",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-08T13:58:50.173692",
+    "prazo_fechamento": "2025-11-23T13:58:50.173694",
+    "total_candidatos": 32,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Inovação",
+      "Excelência",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Certificações",
+      "Previdência privada",
+      "Home office"
+    ]
+  },
+  {
+    "id": "VAGA_0084",
+    "titulo": "Especialista DevOps Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Especialista DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "DevOps",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "React Native",
+      "Tableau",
+      "Scala"
+    ],
+    "tecnologias_desejaveis": [
+      "Flask",
+      "Vue.js",
+      "Scala",
+      "Angular"
+    ],
+    "soft_skills_obrigatorias": [
+      "Iniciativa",
+      "Gestão de tempo",
+      "Colaboração",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Flexibilidade",
+      "Criatividade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "Lopes da Praia",
+    "estado": "AC",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-09-05T13:58:50.173711",
+    "prazo_fechamento": "2025-11-08T13:58:50.173713",
+    "total_candidatos": 28,
+    "candidatos_aprovados": 7,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Excelência",
+      "Transparência",
+      "Qualidade",
+      "Sustentabilidade",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Certificações",
+      "Vale refeição",
+      "Plano de saúde",
+      "Previdência privada",
+      "Vale transporte",
+      "Plano odontológico",
+      "Home office",
+      "Gympass",
+      "Horário flexível",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0085",
+    "titulo": "Lead Backend Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Lead Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Backend",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "TensorFlow",
+      "PyTorch",
+      "Kubernetes",
+      "ETL"
+    ],
+    "tecnologias_desejaveis": [
+      "Kotlin",
+      "RabbitMQ",
+      "Angular",
+      "Kafka",
+      "Python",
+      "Jenkins"
+    ],
+    "soft_skills_obrigatorias": [
+      "Colaboração",
+      "Criatividade",
+      "Flexibilidade",
+      "Adaptabilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Criatividade"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Fluente",
+    "cidade": "Teixeira da Prata",
+    "estado": "AC",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Baixa",
+    "data_abertura": "2025-09-16T13:58:50.173741",
+    "prazo_fechamento": "2025-10-15T13:58:50.173742",
+    "total_candidatos": 18,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Excelência",
+      "Sustentabilidade",
+      "Diversidade",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Vale transporte",
+      "Stock options",
+      "Plano odontológico",
+      "Day off aniversário",
+      "Horário flexível",
+      "Gympass",
+      "Vale refeição",
+      "Plano de saúde",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0086",
+    "titulo": "Lead Frontend Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Lead Frontend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Frontend",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "React Native",
+      "Vue.js",
+      "RabbitMQ"
+    ],
+    "tecnologias_desejaveis": [
+      "Numpy",
+      "TypeScript",
+      "Terraform",
+      "Git",
+      "Django"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Orientação a resultados",
+      "Iniciativa",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Adaptabilidade",
+      "Trabalho em equipe"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Moreira",
+    "estado": "SP",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Alta",
+    "data_abertura": "2025-09-02T13:58:50.173760",
+    "prazo_fechamento": "2025-10-12T13:58:50.173761",
+    "total_candidatos": 48,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Colaboração",
+      "Agilidade",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Vale refeição",
+      "Plano odontológico",
+      "Curso de idiomas",
+      "Plano de saúde",
+      "Horário flexível",
+      "Gympass",
+      "Certificações"
+    ]
+  },
+  {
+    "id": "VAGA_0087",
+    "titulo": "Senior Fullstack Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Senior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Node.js",
+      "GCP",
+      "Go",
+      "Elasticsearch"
+    ],
+    "tecnologias_desejaveis": [
+      "Numpy",
+      "TypeScript"
+    ],
+    "soft_skills_obrigatorias": [
+      "Colaboração",
+      "Adaptabilidade",
+      "Orientação a resultados",
+      "Trabalho em equipe"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "Pires das Flores",
+    "estado": "CE",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Média",
+    "data_abertura": "2025-07-29T13:58:50.173779",
+    "prazo_fechamento": "2025-10-17T13:58:50.173780",
+    "total_candidatos": 30,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Agilidade",
+      "Diversidade",
+      "Crescimento",
+      "Excelência",
+      "Colaboração",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Home office",
+      "Curso de idiomas",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0088",
+    "titulo": "Lead DevOps Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Lead DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "DevOps",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "GCP",
+      "Unreal Engine",
+      "Hadoop",
+      "TypeScript"
+    ],
+    "tecnologias_desejaveis": [
+      "Python",
+      "ETL",
+      "Jenkins",
+      "PyTorch",
+      "Git",
+      "C#",
+      "Elasticsearch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Adaptabilidade",
+      "Flexibilidade"
+    ],
+    "soft_skills_desejaveis": [
+      "Pensamento crítico",
+      "Flexibilidade",
+      "Resolução de problemas"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Avançado",
+    "cidade": "da Costa",
+    "estado": "PE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-16T13:58:50.173797",
+    "prazo_fechamento": "2025-10-15T13:58:50.173798",
+    "total_candidatos": 27,
+    "candidatos_aprovados": 5,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Diversidade",
+      "Qualidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Stock options",
+      "Certificações",
+      "Vale refeição",
+      "Plano de saúde",
+      "Plano odontológico",
+      "Day off aniversário",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0089",
+    "titulo": "Pleno UX/UI Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Pleno UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Pleno",
+    "area": "UX/UI",
+    "anos_experiencia_min": 2,
+    "anos_experiencia_max": 5,
+    "tecnologias_obrigatorias": [
+      "PyTorch",
+      "Apache Spark",
+      "Grafana"
+    ],
+    "tecnologias_desejaveis": [
+      "SQL",
+      "Ansible",
+      "Grafana",
+      "Python",
+      "Jenkins",
+      "GCP",
+      "MySQL",
+      "Docker"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Gestão de tempo",
+      "Criatividade",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Orientação a resultados"
+    ],
+    "salario_min": 8000,
+    "salario_max": 15000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Fluente",
+    "cidade": "Garcia",
+    "estado": "RN",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Aberta",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-16T13:58:50.173815",
+    "prazo_fechamento": "2025-11-13T13:58:50.173816",
+    "total_candidatos": 18,
+    "candidatos_aprovados": 5,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Qualidade",
+      "Inovação",
+      "Transparência",
+      "Crescimento",
+      "Sustentabilidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Curso de idiomas",
+      "Previdência privada",
+      "Vale refeição",
+      "Plano de saúde",
+      "Day off aniversário",
+      "Vale transporte",
+      "Certificações",
+      "Stock options",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0090",
+    "titulo": "Especialista QA Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Especialista QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "QA",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Spring Boot",
+      "Swift",
+      "Data Science",
+      "Kotlin",
+      "Vue.js"
+    ],
+    "tecnologias_desejaveis": [
+      "ETL",
+      "MongoDB",
+      "Tableau",
+      "PostgreSQL"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Colaboração",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Iniciativa",
+      "Adaptabilidade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Básico",
+    "cidade": "Guerra de da Rosa",
+    "estado": "GO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-06T13:58:50.173835",
+    "prazo_fechamento": "2025-10-20T13:58:50.173837",
+    "total_candidatos": 49,
+    "candidatos_aprovados": 10,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Transparência",
+      "Qualidade",
+      "Crescimento",
+      "Diversidade"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Home office",
+      "Stock options",
+      "Vale transporte",
+      "Plano odontológico",
+      "Horário flexível",
+      "Plano de saúde"
+    ]
+  },
+  {
+    "id": "VAGA_0091",
+    "titulo": "Lead UX/UI Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Lead UX/UI com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "UX/UI",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Node.js",
+      "Kafka",
+      "PostgreSQL",
+      "Kubernetes",
+      "Java"
+    ],
+    "tecnologias_desejaveis": [
+      "Elasticsearch",
+      "Unreal Engine",
+      "Pandas",
+      "React Native",
+      "Node.js",
+      "Unity",
+      "Vue.js"
+    ],
+    "soft_skills_obrigatorias": [
+      "Criatividade",
+      "Comunicação",
+      "Resolução de problemas"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Iniciativa",
+      "Colaboração"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Cunha",
+    "estado": "GO",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-05T13:58:50.173855",
+    "prazo_fechamento": "2025-11-20T13:58:50.173856",
+    "total_candidatos": 27,
+    "candidatos_aprovados": 8,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Agilidade",
+      "Diversidade",
+      "Transparência",
+      "Excelência"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Gympass",
+      "Vale transporte",
+      "Plano odontológico",
+      "Previdência privada",
+      "Stock options",
+      "Day off aniversário"
+    ]
+  },
+  {
+    "id": "VAGA_0092",
+    "titulo": "Lead Backend Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Lead Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Backend",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Data Science",
+      "Flutter",
+      "ETL"
+    ],
+    "tecnologias_desejaveis": [
+      "Grafana",
+      "Java",
+      "Docker",
+      "PyTorch",
+      "Spring Boot",
+      "Prometheus",
+      "Unreal Engine",
+      "GitLab CI"
+    ],
+    "soft_skills_obrigatorias": [
+      "Liderança",
+      "Comunicação",
+      "Criatividade"
+    ],
+    "soft_skills_desejaveis": [
+      "Flexibilidade"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Santos das Pedras",
+    "estado": "BA",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-29T13:58:50.173874",
+    "prazo_fechamento": "2025-10-12T13:58:50.173875",
+    "total_candidatos": 5,
+    "candidatos_aprovados": 4,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Inovação",
+      "Excelência",
+      "Sustentabilidade"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Certificações",
+      "Gympass",
+      "Vale transporte",
+      "Plano odontológico",
+      "Curso de idiomas",
+      "Plano de saúde",
+      "Home office",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0093",
+    "titulo": "Lead Backend Developer",
+    "empresa": "TechCorp",
+    "descricao": "Vaga para Lead Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Backend",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Scala",
+      "Hadoop",
+      "Redis",
+      "Vue.js",
+      "ETL"
+    ],
+    "tecnologias_desejaveis": [
+      "Django",
+      "C#",
+      "PostgreSQL"
+    ],
+    "soft_skills_obrigatorias": [
+      "Pensamento crítico",
+      "Comunicação",
+      "Iniciativa",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Liderança",
+      "Gestão de tempo",
+      "Criatividade",
+      "Flexibilidade"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Mendonça da Serra",
+    "estado": "PI",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Aberta",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-19T13:58:50.173894",
+    "prazo_fechamento": "2025-11-23T13:58:50.173895",
+    "total_candidatos": 14,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Qualidade",
+      "Agilidade",
+      "Colaboração"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Previdência privada",
+      "Curso de idiomas",
+      "Vale refeição",
+      "Certificações",
+      "Stock options",
+      "Plano de saúde"
+    ]
+  },
+  {
+    "id": "VAGA_0094",
+    "titulo": "Especialista QA Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Especialista QA com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "QA",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "AWS",
+      "TypeScript",
+      "Microservices",
+      "Python",
+      "Django"
+    ],
+    "tecnologias_desejaveis": [
+      "Prometheus",
+      "RabbitMQ",
+      "R",
+      "SQL",
+      "Flask",
+      "TypeScript"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Resolução de problemas",
+      "Gestão de tempo",
+      "Flexibilidade"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Novais",
+    "estado": "TO",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-19T13:58:50.173912",
+    "prazo_fechamento": "2025-11-10T13:58:50.173913",
+    "total_candidatos": 6,
+    "candidatos_aprovados": 0,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Crescimento",
+      "Sustentabilidade",
+      "Inovação",
+      "Diversidade",
+      "Excelência",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Plano de saúde",
+      "Home office",
+      "Certificações",
+      "Vale refeição",
+      "Curso de idiomas"
+    ]
+  },
+  {
+    "id": "VAGA_0095",
+    "titulo": "Especialista DevOps Developer",
+    "empresa": "FinTech",
+    "descricao": "Vaga para Especialista DevOps com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Especialista",
+    "area": "DevOps",
+    "anos_experiencia_min": 8,
+    "anos_experiencia_max": 12,
+    "tecnologias_obrigatorias": [
+      "Kubernetes",
+      "C#"
+    ],
+    "tecnologias_desejaveis": [
+      "JavaScript",
+      "SQL",
+      "RabbitMQ",
+      "Flask",
+      "Flutter",
+      "Angular",
+      "Vue.js",
+      "AWS"
+    ],
+    "soft_skills_obrigatorias": [
+      "Gestão de tempo",
+      "Iniciativa",
+      "Comunicação",
+      "Colaboração"
+    ],
+    "soft_skills_desejaveis": [
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Gestão de tempo",
+      "Pensamento crítico"
+    ],
+    "salario_min": 20000,
+    "salario_max": 35000,
+    "modelo_trabalho": "Presencial",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Souza",
+    "estado": "AC",
+    "aceita_mudanca": true,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Alta",
+    "data_abertura": "2025-08-22T13:58:50.173933",
+    "prazo_fechamento": "2025-11-20T13:58:50.173934",
+    "total_candidatos": 31,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 3,
+    "valores_empresa": [
+      "Transparência",
+      "Colaboração",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Vale refeição",
+      "Day off aniversário",
+      "Gympass",
+      "Certificações",
+      "Plano odontológico",
+      "Stock options",
+      "Previdência privada",
+      "Vale transporte",
+      "Curso de idiomas",
+      "Horário flexível"
+    ]
+  },
+  {
+    "id": "VAGA_0096",
+    "titulo": "Senior Fullstack Developer",
+    "empresa": "DataSolutions",
+    "descricao": "Vaga para Senior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Django",
+      "Angular",
+      "SQL",
+      "Prometheus"
+    ],
+    "tecnologias_desejaveis": [
+      "Django",
+      "Jenkins"
+    ],
+    "soft_skills_obrigatorias": [
+      "Resolução de problemas",
+      "Iniciativa"
+    ],
+    "soft_skills_desejaveis": [
+      "Trabalho em equipe",
+      "Liderança",
+      "Comunicação"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Avançado",
+    "cidade": "Sales",
+    "estado": "SE",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Média",
+    "data_abertura": "2025-08-09T13:58:50.173951",
+    "prazo_fechamento": "2025-11-12T13:58:50.173952",
+    "total_candidatos": 6,
+    "candidatos_aprovados": 3,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Sustentabilidade",
+      "Excelência",
+      "Inovação",
+      "Colaboração",
+      "Crescimento",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Stock options",
+      "Day off aniversário",
+      "Gympass",
+      "Vale refeição",
+      "Home office",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0097",
+    "titulo": "Senior Mobile Developer",
+    "empresa": "StartupTech",
+    "descricao": "Vaga para Senior Mobile com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Senior",
+    "area": "Mobile",
+    "anos_experiencia_min": 5,
+    "anos_experiencia_max": 8,
+    "tecnologias_obrigatorias": [
+      "Node.js",
+      "Ansible",
+      "JavaScript",
+      "Spring Boot"
+    ],
+    "tecnologias_desejaveis": [
+      "Vue.js",
+      "Numpy"
+    ],
+    "soft_skills_obrigatorias": [
+      "Trabalho em equipe",
+      "Adaptabilidade",
+      "Colaboração",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo",
+      "Colaboração"
+    ],
+    "salario_min": 15000,
+    "salario_max": 25000,
+    "modelo_trabalho": "Remoto",
+    "nivel_ingles": "Avançado",
+    "cidade": "Rios",
+    "estado": "AL",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Fechada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-23T13:58:50.173969",
+    "prazo_fechamento": "2025-11-16T13:58:50.173970",
+    "total_candidatos": 31,
+    "candidatos_aprovados": 2,
+    "candidatos_contratados": 1,
+    "valores_empresa": [
+      "Diversidade",
+      "Inovação",
+      "Crescimento",
+      "Qualidade",
+      "Sustentabilidade",
+      "Transparência"
+    ],
+    "beneficios": [
+      "Day off aniversário",
+      "Gympass",
+      "Vale refeição",
+      "Curso de idiomas",
+      "Plano odontológico",
+      "Previdência privada"
+    ]
+  },
+  {
+    "id": "VAGA_0098",
+    "titulo": "Arquiteto Backend Developer",
+    "empresa": "InnovaTech",
+    "descricao": "Vaga para Arquiteto Backend com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Arquiteto",
+    "area": "Backend",
+    "anos_experiencia_min": 12,
+    "anos_experiencia_max": 20,
+    "tecnologias_obrigatorias": [
+      "Machine Learning",
+      "MySQL"
+    ],
+    "tecnologias_desejaveis": [
+      "Swift",
+      "Numpy",
+      "Spring Boot",
+      "Angular",
+      "Elasticsearch",
+      "Redis"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Gestão de tempo"
+    ],
+    "soft_skills_desejaveis": [
+      "Gestão de tempo",
+      "Iniciativa"
+    ],
+    "salario_min": 30000,
+    "salario_max": 50000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Intermediário",
+    "cidade": "Barbosa",
+    "estado": "MA",
+    "aceita_mudanca": true,
+    "viagem_necessaria": false,
+    "status": "Em andamento",
+    "prioridade": "Alta",
+    "data_abertura": "2025-07-19T13:58:50.173987",
+    "prazo_fechamento": "2025-10-21T13:58:50.173988",
+    "total_candidatos": 37,
+    "candidatos_aprovados": 6,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Inovação",
+      "Transparência",
+      "Excelência",
+      "Colaboração",
+      "Qualidade",
+      "Agilidade"
+    ],
+    "beneficios": [
+      "Gympass",
+      "Horário flexível",
+      "Plano de saúde",
+      "Certificações",
+      "Vale refeição",
+      "Vale transporte"
+    ]
+  },
+  {
+    "id": "VAGA_0099",
+    "titulo": "Junior Fullstack Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Junior Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Junior",
+    "area": "Fullstack",
+    "anos_experiencia_min": 0,
+    "anos_experiencia_max": 2,
+    "tecnologias_obrigatorias": [
+      "Tableau",
+      "Rust",
+      "Django",
+      "Kotlin",
+      "Python"
+    ],
+    "tecnologias_desejaveis": [
+      "Jenkins",
+      "Python",
+      "AWS",
+      "C#"
+    ],
+    "soft_skills_obrigatorias": [
+      "Comunicação",
+      "Orientação a resultados"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação"
+    ],
+    "salario_min": 4000,
+    "salario_max": 8000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Não necessário",
+    "cidade": "Teixeira de Mendes",
+    "estado": "RJ",
+    "aceita_mudanca": false,
+    "viagem_necessaria": true,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-07-30T13:58:50.174015",
+    "prazo_fechamento": "2025-10-19T13:58:50.174016",
+    "total_candidatos": 42,
+    "candidatos_aprovados": 1,
+    "candidatos_contratados": 0,
+    "valores_empresa": [
+      "Excelência",
+      "Colaboração",
+      "Inovação"
+    ],
+    "beneficios": [
+      "Vale transporte",
+      "Horário flexível",
+      "Vale refeição",
+      "Certificações",
+      "Previdência privada",
+      "Plano odontológico"
+    ]
+  },
+  {
+    "id": "VAGA_0100",
+    "titulo": "Lead Fullstack Developer",
+    "empresa": "CloudFirst",
+    "descricao": "Vaga para Lead Fullstack com foco em desenvolvimento de soluções inovadoras.",
+    "nivel_requerido": "Lead",
+    "area": "Fullstack",
+    "anos_experiencia_min": 10,
+    "anos_experiencia_max": 15,
+    "tecnologias_obrigatorias": [
+      "Tableau",
+      "Machine Learning",
+      "Kubernetes"
+    ],
+    "tecnologias_desejaveis": [
+      "Rust",
+      "React Native",
+      "Scikit-learn",
+      "Tableau",
+      "PyTorch"
+    ],
+    "soft_skills_obrigatorias": [
+      "Orientação a resultados",
+      "Pensamento crítico",
+      "Iniciativa",
+      "Comunicação"
+    ],
+    "soft_skills_desejaveis": [
+      "Comunicação",
+      "Colaboração",
+      "Adaptabilidade",
+      "Criatividade"
+    ],
+    "salario_min": 25000,
+    "salario_max": 40000,
+    "modelo_trabalho": "Híbrido",
+    "nivel_ingles": "Básico",
+    "cidade": "Guerra da Serra",
+    "estado": "PI",
+    "aceita_mudanca": false,
+    "viagem_necessaria": false,
+    "status": "Pausada",
+    "prioridade": "Crítica",
+    "data_abertura": "2025-08-26T13:58:50.174035",
+    "prazo_fechamento": "2025-10-06T13:58:50.174036",
+    "total_candidatos": 8,
+    "candidatos_aprovados": 0,
+    "candidatos_contratados": 2,
+    "valores_empresa": [
+      "Agilidade",
+      "Diversidade",
+      "Inovação",
+      "Crescimento"
+    ],
+    "beneficios": [
+      "Plano odontológico",
+      "Day off aniversário",
+      "Vale transporte",
+      "Certificações",
+      "Curso de idiomas",
+      "Plano de saúde",
+      "Vale refeição",
+      "Gympass",
+      "Horário flexível"
+    ]
+  }
+]
