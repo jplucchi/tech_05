@@ -45,7 +45,7 @@
 - 45+ tecnologias representadas
 
 #### **Stack Tecnológico**
-- **Python 3.12** - Linguagem principal
+- **Python 3.11** - Linguagem principal
 - **Scikit-learn** - Machine Learning
 - **Streamlit** - Interface web interativa
 - **Plotly** - Visualizações avançadas
