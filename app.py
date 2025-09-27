@@ -409,7 +409,7 @@ def show_ai_interview(candidates, jobs):
         if st.button("🎯 Iniciar Entrevista"):
             st.session_state.interview_candidate = selected_candidate
             st.session_state.interview_job = selected_job
-            st.experimental_rerun()
+            st.rerun()
 
 def show_profile_analysis(candidates, jobs, interviews):
     """Análise de perfis de candidatos"""
