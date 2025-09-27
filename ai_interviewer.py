@@ -440,11 +440,14 @@ class AIInterviewer:
 
 # Função para teste
 def test_ai_interviewer():
+    import os
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    
     # Carregar dados
-    with open('/Users/joaopaulolucchi/Desktop/tech_05/data/applicants.json', 'r', encoding='utf-8') as f:
+    with open(os.path.join(base_path, 'data', 'applicants.json'), 'r', encoding='utf-8') as f:
         candidates = json.load(f)
     
-    with open('/Users/joaopaulolucchi/Desktop/tech_05/data/vagas.json', 'r', encoding='utf-8') as f:
+    with open(os.path.join(base_path, 'data', 'vagas.json'), 'r', encoding='utf-8') as f:
         jobs = json.load(f)
     
     # Criar interviewer

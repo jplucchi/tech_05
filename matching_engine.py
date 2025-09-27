@@ -21,13 +21,16 @@ class CandidateJobMatcher:
         
     def load_data(self):
         """Carrega e processa os dados"""
-        with open('/Users/joaopaulolucchi/Desktop/tech_05/data/applicants.json', 'r', encoding='utf-8') as f:
+        import os
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        
+        with open(os.path.join(base_path, 'data', 'applicants.json'), 'r', encoding='utf-8') as f:
             self.candidates = json.load(f)
         
-        with open('/Users/joaopaulolucchi/Desktop/tech_05/data/vagas.json', 'r', encoding='utf-8') as f:
+        with open(os.path.join(base_path, 'data', 'vagas.json'), 'r', encoding='utf-8') as f:
             self.jobs = json.load(f)
             
-        with open('/Users/joaopaulolucchi/Desktop/tech_05/data/prospects.json', 'r', encoding='utf-8') as f:
+        with open(os.path.join(base_path, 'data', 'prospects.json'), 'r', encoding='utf-8') as f:
             self.interviews = json.load(f)
         
         self.candidates_df = pd.DataFrame(self.candidates)
@@ -342,17 +345,23 @@ class CandidateJobMatcher:
     
     def save_models(self):
         """Salva os modelos treinados"""
-        joblib.dump(self.rf_model, '/Users/joaopaulolucchi/Desktop/tech_05/models/rf_model.pkl')
-        joblib.dump(self.scaler, '/Users/joaopaulolucchi/Desktop/tech_05/models/scaler.pkl')
-        joblib.dump(self.kmeans_model, '/Users/joaopaulolucchi/Desktop/tech_05/models/kmeans_model.pkl')
-        joblib.dump(self.label_encoders, '/Users/joaopaulolucchi/Desktop/tech_05/models/label_encoders.pkl')
-        joblib.dump(self.feature_columns, '/Users/joaopaulolucchi/Desktop/tech_05/models/feature_columns.pkl')
+        import os
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        models_path = os.path.join(base_path, 'models')
+        os.makedirs(models_path, exist_ok=True)
+        
+        joblib.dump(self.rf_model, os.path.join(models_path, 'rf_model.pkl'))
+        joblib.dump(self.scaler, os.path.join(models_path, 'scaler.pkl'))
+        joblib.dump(self.kmeans_model, os.path.join(models_path, 'kmeans_model.pkl'))
+        joblib.dump(self.label_encoders, os.path.join(models_path, 'label_encoders.pkl'))
+        joblib.dump(self.feature_columns, os.path.join(models_path, 'feature_columns.pkl'))
         
         print("✅ Modelos salvos com sucesso!")
 
 def main():
     import os
-    os.makedirs('/Users/joaopaulolucchi/Desktop/tech_05/models', exist_ok=True)
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    os.makedirs(os.path.join(base_path, 'models'), exist_ok=True)
     
     # Inicializar e treinar sistema
     matcher = CandidateJobMatcher()

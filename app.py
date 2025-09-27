@@ -53,13 +53,17 @@ st.markdown("""
 def load_data():
     """Carrega e processa os dados"""
     try:
-        with open('/Users/joaopaulolucchi/Desktop/tech_05/data/applicants.json', 'r', encoding='utf-8') as f:
+        # Usar caminhos relativos que funcionam tanto local quanto no deploy
+        import os
+        base_path = os.path.dirname(os.path.abspath(__file__))
+        
+        with open(os.path.join(base_path, 'data', 'applicants.json'), 'r', encoding='utf-8') as f:
             candidates = json.load(f)
         
-        with open('/Users/joaopaulolucchi/Desktop/tech_05/data/vagas.json', 'r', encoding='utf-8') as f:
+        with open(os.path.join(base_path, 'data', 'vagas.json'), 'r', encoding='utf-8') as f:
             jobs = json.load(f)
             
-        with open('/Users/joaopaulolucchi/Desktop/tech_05/data/prospects.json', 'r', encoding='utf-8') as f:
+        with open(os.path.join(base_path, 'data', 'prospects.json'), 'r', encoding='utf-8') as f:
             interviews = json.load(f)
         
         return candidates, jobs, interviews
