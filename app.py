@@ -475,8 +475,7 @@ def show_profile_analysis(candidates, jobs, interviews):
         fig_exp = px.scatter(
             x=exp_data, y=success_data,
             title="Experiência vs Taxa de Sucesso",
-            labels={"x": "Anos de Experiência", "y": "Taxa de Sucesso"},
-            trendline="ols"
+            labels={"x": "Anos de Experiência", "y": "Taxa de Sucesso"}
         )
         st.plotly_chart(fig_exp, use_container_width=True)
     
